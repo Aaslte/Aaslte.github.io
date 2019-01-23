@@ -1,7 +1,7 @@
 # Site settings
-title: Rao Binlin Blog
+title: Aaslte Blog
 SEOTitle: 饶斌林的博客 | BL Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-swift.jpg
 email: raobinlin@iCloud.com
 description: "Your internal mediocrity is the moment when you lost the faith of being excellent."
 keyword: "iOS, Apple, iPhone"
@@ -11,14 +11,14 @@ github_repo: "https://github.com/aaslte/aaslte.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Your internal mediocrity is the moment when you lost the faith of being excellent."
+sidebar-avatar: /img/head_06.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     Aaslte_CC
+weibo_username:     Aaslte_cc
 zhihu_username:     完全体cc
 github_username:    Aaslte
 twitter_username:   Aaslte_CC
@@ -83,7 +83,7 @@ kramdown:
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
+featured-tags: false                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
@@ -97,7 +97,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "ZNL",
+        title: "RandomJ",
         href: "http://www.randomj.top"
     },{
         title: "Apple",
